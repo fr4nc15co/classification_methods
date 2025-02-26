@@ -1,0 +1,4 @@
+torch==2.2.1
+matplotlib==3.7.1
+scikit-learn==1.2.2
+moviepy==1.0.3
